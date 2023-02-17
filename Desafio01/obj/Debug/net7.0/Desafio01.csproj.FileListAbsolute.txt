@@ -1,0 +1,15 @@
+D:\dev\DesafioBaltaDeCarnaval\Desafio01\bin\Debug\net7.0\Desafio01.exe
+D:\dev\DesafioBaltaDeCarnaval\Desafio01\bin\Debug\net7.0\Desafio01.deps.json
+D:\dev\DesafioBaltaDeCarnaval\Desafio01\bin\Debug\net7.0\Desafio01.runtimeconfig.json
+D:\dev\DesafioBaltaDeCarnaval\Desafio01\bin\Debug\net7.0\Desafio01.dll
+D:\dev\DesafioBaltaDeCarnaval\Desafio01\bin\Debug\net7.0\Desafio01.pdb
+D:\dev\DesafioBaltaDeCarnaval\Desafio01\obj\Debug\net7.0\Desafio01.csproj.AssemblyReference.cache
+D:\dev\DesafioBaltaDeCarnaval\Desafio01\obj\Debug\net7.0\Desafio01.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\DesafioBaltaDeCarnaval\Desafio01\obj\Debug\net7.0\Desafio01.AssemblyInfoInputs.cache
+D:\dev\DesafioBaltaDeCarnaval\Desafio01\obj\Debug\net7.0\Desafio01.AssemblyInfo.cs
+D:\dev\DesafioBaltaDeCarnaval\Desafio01\obj\Debug\net7.0\Desafio01.csproj.CoreCompileInputs.cache
+D:\dev\DesafioBaltaDeCarnaval\Desafio01\obj\Debug\net7.0\Desafio01.dll
+D:\dev\DesafioBaltaDeCarnaval\Desafio01\obj\Debug\net7.0\refint\Desafio01.dll
+D:\dev\DesafioBaltaDeCarnaval\Desafio01\obj\Debug\net7.0\Desafio01.pdb
+D:\dev\DesafioBaltaDeCarnaval\Desafio01\obj\Debug\net7.0\Desafio01.genruntimeconfig.cache
+D:\dev\DesafioBaltaDeCarnaval\Desafio01\obj\Debug\net7.0\ref\Desafio01.dll
