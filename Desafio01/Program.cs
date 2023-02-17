@@ -16,7 +16,7 @@ int CountCharacters(string text)
 
 int CountWords(string text)
 {
-	var cleanText = Regex.Replace(text.Trim(), "\\s+", " ");
+	var cleanText = Regex.Replace(text.Trim(), "[\\W\\s]+", " ");
 	if (cleanText.Length is not 0)
 		return cleanText.Split(" ").Length;
 
