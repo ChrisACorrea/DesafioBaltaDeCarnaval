@@ -7,7 +7,7 @@
 			"type": "process",
 			"args": [
 				"build",
-				"${workspaceFolder}/Desafio01/Desafio01.csproj",
+				"${workspaceFolder}/DesafioBaltaDeCarnaval.sln",
 				"/property:GenerateFullPaths=true",
 				"/consoleloggerparameters:NoSummary"
 			],
@@ -19,7 +19,7 @@
 			"type": "process",
 			"args": [
 				"publish",
-				"${workspaceFolder}/Desafio01/Desafio01.csproj",
+				"${workspaceFolder}/DesafioBaltaDeCarnaval.sln",
 				"/property:GenerateFullPaths=true",
 				"/consoleloggerparameters:NoSummary"
 			],
@@ -33,7 +33,7 @@
 				"watch",
 				"run",
 				"--project",
-				"${workspaceFolder}/Desafio01/Desafio01.csproj"
+				"${workspaceFolder}/DesafioBaltaDeCarnaval.sln"
 			],
 			"problemMatcher": "$msCompile"
 		}
