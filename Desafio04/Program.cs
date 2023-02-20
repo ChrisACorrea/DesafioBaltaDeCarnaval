@@ -28,8 +28,10 @@ foreach (var coin in coinQuantities.Where((v) => v.Value != 0))
 {
 	if (coin.Key > 1)
 		Console.WriteLine($"\t- {coin.Value} nota{Plural(coin.Value)} de {coin.Key:n0} reais.");
+	else if (coin.Key == 1)
+		Console.WriteLine($"\t- {coin.Value} moeda{Plural(coin.Value)} de {coin.Key:n0} real.");
 	else
-		Console.WriteLine($"\t- {coin.Value} moeda{Plural(coin.Value)} de {(coin.Key * 100):n0} centavos.");
+		Console.WriteLine($"\t- {coin.Value} moeda{Plural(coin.Value)} de {(coin.Key * 100):n0} centavo{(coin.Key != 0.01m ? "s" : string.Empty)}.");
 }
 
 string Plural(int quantity) => quantity > 1 ? "s" : string.Empty;
